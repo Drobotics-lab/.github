@@ -27,7 +27,7 @@ The JUIT Robotics Hub is the primary technical organization at Jaypee University
 | Resource | Link |
 | :--- | :--- |
 | **Official Website** | [juit-robotics-hub.vercel.app](https://juit-robotics-hub.vercel.app/) |
-| **Email** | [robotics.hub@juit.ac.in](mailto:robotics.hub@juit.ac.in) |
+| **Email** | [droboticlab@juitsolan.in](mailto:droboticlab@juitsolan.in) |
 | **Location** | Drobotics Lab, JUIT Waknaghat |
 
 ---
