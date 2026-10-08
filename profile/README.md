@@ -4,16 +4,6 @@ The JUIT Robotics Hub is the primary technical organization at Jaypee University
 
 ---
 
-### 🛠️ Core Focus & Tech Stack
-
-| **Hardware & Prototyping** | **AI & Edge Computing** | **Control & Connectivity** |
-| :--- | :--- | :--- |
-| 3D Printing & CAD Modeling | NVIDIA Jetson Orin Nano / Thor | ROS, C++, MicroPython |
-| Rapid Mechanical Iteration | Real-time Computer Vision | Arduino, ESP32, Raspberry Pi |
-| Structural Design | Neural Network Deployment | IoT & Swarm Integration |
-
----
-
 ### 🚀 Key Initiatives
 
 * **Intelligence at the Edge:** Deploying advanced ML models on **Jetson Nano/Thor** for autonomous navigation.
